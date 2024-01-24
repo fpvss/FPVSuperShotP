@@ -85,7 +85,7 @@
 
 .u-section-2 .u-image-1 {
   min-height: 360px;
-  background-image: url("/images/3rds.jpeg");
+  background-image: url("images/3rds.jpeg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: -300px;
   --animation-custom_in-translate_y: 0px;
@@ -142,7 +142,7 @@
 
 .u-section-2 .u-image-2 {
   min-height: 360px;
-  background-image: url("/images/ghr.jpeg");
+  background-image: url("images/ghr.jpeg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 300px;
   --animation-custom_in-translate_y: 0px;
@@ -392,7 +392,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 969px;
-  background-image: url("/images/bg3.jpg");
+  background-image: url("images/bg3.jpg");
   background-position: 50% 50%;
 }
 
@@ -564,7 +564,7 @@
 
 .u-section-4 .u-image-1 {
   min-height: 396px;
-  background-image: url("/images/gifshots.gif");
+  background-image: url("images/gifshots.gif");
   background-position: 50% 50%;
 }
 
@@ -606,7 +606,7 @@
 
 .u-section-4 .u-image-2 {
   min-height: 315px;
-  background-image: url("/images/editing.jpeg");
+  background-image: url("images/editing.jpeg");
   background-position: 50% 50%;
 }
 
