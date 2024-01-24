@@ -1,0 +1,108 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-1 .u-product-1 {
+  min-height: 681px;
+  margin: 20px auto 60px 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0 18px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 196px;
+  height: 269px;
+  margin: 307px auto 0 216px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 391px;
+  height: 191px;
+  margin: -441px auto 0 21px;
+}
+
+.u-section-1 .u-image-3 {
+  width: 200px;
+  height: 250px;
+  margin: 0 auto 0 21px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  font-family: "Alegreya SC";
+  margin: -432px 0 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.5rem;
+  margin: 20px 40px 0 439px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  border-style: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  --radius: 5px;
+  margin: 50px 69px 0 auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-product-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 279px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-2 {
+    margin-left: 59px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1rem;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    margin-left: 124px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 320px;
+    height: 156px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-left: 0;
+  }
+}
